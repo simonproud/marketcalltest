@@ -1,0 +1,19 @@
+{
+    "name": "simonproud/parser",
+    "description": "Parser HTML",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Simop Proud",
+            "email": "simon.proud@ro.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Parser\\": "libraries/Parser",
+            "SwapSort\\": "libraries/SwapSort"
+        }
+    }
+}
