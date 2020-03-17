@@ -1,12 +1,15 @@
 <?php
 namespace Parser\Classes;
+/**
+ * @author SimonProud
+ * @license none
+ * @version 0.1
+ */
 
-use Parser\Interfaces\PageInterface;
-
-class Page implements PageInterface
+class Page implements \Parser\Interfaces\PageInterface
 {
     private $code;
-    public $tags;
+    public  $tags;
     private $nullTags = [];
     private $pattern = '/(?<=<)[^<]+(?=>)/';
 

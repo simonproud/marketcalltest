@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c0dfe49-8332-4368-9b21-d6e1c1f0bd4f" name="Default Changelist" comment="" />
+    <list default="true" id="1c0dfe49-8332-4368-9b21-d6e1c1f0bd4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Classes/HTTPRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Classes/HTTPRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Classes/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Classes/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Classes/Parser.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Classes/Parser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Classes/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Classes/Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Classes/TagsCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Classes/TagsCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Exceptions/UrlException.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Exceptions/UrlException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Interfaces/PageInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Interfaces/PageInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Interfaces/ParserInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Interfaces/ParserInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/Parser/Interfaces/Source.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/Parser/Interfaces/Source.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/SwapSort/SwapSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/SwapSort/SwapSort.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/Parser/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -19,6 +35,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YL2IooWfTGlOBCIriMb36vGT6w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -90,7 +107,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582707476177</updated>
       <workItem from="1582707477526" duration="16936000" />
-      <workItem from="1582726893022" duration="17873000" />
+      <workItem from="1582726893022" duration="18113000" />
+      <workItem from="1584452837510" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -126,22 +144,22 @@
       <screen x="0" y="30" width="1366" height="702" />
     </state>
     <state x="487" y="137" key="FileChooserDialogImpl/0.30.1366.702@0.30.1366.702" timestamp="1582739873373" />
-    <state width="863" height="149" key="GridCell.Tab.0.bottom" timestamp="1582749403754">
+    <state width="863" height="149" key="GridCell.Tab.0.bottom" timestamp="1582749572291">
       <screen x="0" y="30" width="1366" height="702" />
     </state>
-    <state width="863" height="149" key="GridCell.Tab.0.bottom/0.30.1366.702@0.30.1366.702" timestamp="1582749403754" />
-    <state width="863" height="149" key="GridCell.Tab.0.center" timestamp="1582749403753">
+    <state width="863" height="149" key="GridCell.Tab.0.bottom/0.30.1366.702@0.30.1366.702" timestamp="1582749572291" />
+    <state width="863" height="149" key="GridCell.Tab.0.center" timestamp="1582749572291">
       <screen x="0" y="30" width="1366" height="702" />
     </state>
-    <state width="863" height="149" key="GridCell.Tab.0.center/0.30.1366.702@0.30.1366.702" timestamp="1582749403753" />
-    <state width="863" height="149" key="GridCell.Tab.0.left" timestamp="1582749403752">
+    <state width="863" height="149" key="GridCell.Tab.0.center/0.30.1366.702@0.30.1366.702" timestamp="1582749572291" />
+    <state width="863" height="149" key="GridCell.Tab.0.left" timestamp="1582749572290">
       <screen x="0" y="30" width="1366" height="702" />
     </state>
-    <state width="863" height="149" key="GridCell.Tab.0.left/0.30.1366.702@0.30.1366.702" timestamp="1582749403752" />
-    <state width="863" height="149" key="GridCell.Tab.0.right" timestamp="1582749403754">
+    <state width="863" height="149" key="GridCell.Tab.0.left/0.30.1366.702@0.30.1366.702" timestamp="1582749572290" />
+    <state width="863" height="149" key="GridCell.Tab.0.right" timestamp="1582749572291">
       <screen x="0" y="30" width="1366" height="702" />
     </state>
-    <state width="863" height="149" key="GridCell.Tab.0.right/0.30.1366.702@0.30.1366.702" timestamp="1582749403754" />
+    <state width="863" height="149" key="GridCell.Tab.0.right/0.30.1366.702@0.30.1366.702" timestamp="1582749572291" />
     <state x="470" y="194" key="NewPhpClassDialog" timestamp="1582738950809">
       <screen x="0" y="30" width="1366" height="702" />
     </state>

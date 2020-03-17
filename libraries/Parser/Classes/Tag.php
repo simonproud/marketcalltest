@@ -1,11 +1,11 @@
 <?php
 namespace Parser\Classes;
-
 /**
- * Class Tag
- *
- * @package Parser
+ * @author SimonProud
+ * @license none
+ * @version 0.1
  */
+
 class Tag
 {
 
@@ -75,7 +75,6 @@ class Tag
      * @param string $key
      * @param string|array $value
      * @return Tag
-     * @chainable
      */
     public function setAttribute(string $key, $value): Tag
     {

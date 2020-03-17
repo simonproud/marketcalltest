@@ -1,15 +1,30 @@
 <?php
 namespace SwapSort;
-
+/**
+ * @author SimonProud
+ * @license none
+ * @version 0.1
+ */
 class SwapSort
 {
-
+    /**
+     * Swap in $array elements by key $pos
+     * $array[$pos] => $array[0]
+     * $array[0] => $array[$pos]
+     * @param $array
+     * @param $pos
+     */
     static function array_swap(&$array,$pos){
         $temp = $array[0];
         $array[0] = $array[$pos];
         $array[$pos] = $temp;
     }
 
+    /**
+     * Sort by element ASC uses array_swap
+     * @param array $arr
+     * @return array
+     */
     static function sort(&$arr)
     {
         $i = 0;

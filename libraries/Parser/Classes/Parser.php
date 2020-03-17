@@ -1,6 +1,10 @@
 <?php
 namespace Parser\Classes;
-
+/**
+ * @author SimonProud
+ * @license none
+ * @version 0.1
+ */
 
 use Parser\Interfaces\ParserInterface;
 use Parser\Interfaces\Source;
